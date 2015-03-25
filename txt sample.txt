@@ -1,0 +1,24 @@
+<html> 
+<head> <title>文本标志的综合示例</title> </head> 
+
+<body text="blue"> 
+
+<h1>最大的标题h1</h1> 
+
+<h3>使用h3的标题</h3> 
+
+<h6>最小的标题h6</h6> 
+
+
+<p><b>黑体字文本</b> </p> 
+<p><i>斜体字文本</i> </p> 
+<p><u>下加一划线文本</u> </p> 
+<p><tt>打字机风格的文本</tt></p> 
+<p><cite>引用方式的文本</cite></p> 
+<p><em>强调的文本</em></p> 
+<p><strong>加重的文本</strong></p> 
+<p><font size="+1" color="red">size取值"+1"、color取值“red”时的文本</font></p> 
+
+
+</body> 
+</html>  

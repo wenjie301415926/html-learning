@@ -1,0 +1,15 @@
+<html>
+<head><title>链接实验</title></head>
+
+<body>
+<a name="TOP">标签</a>
+<a href="http://www.baidu.com/">链接到百度（直接跳转）</a><br>
+<a href="http://www.baidu.com/" target="_blank">链接到百度（新建窗口跳转）</a><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<a href="http://wenjie301415926.com" target="_blank">我的网站</a><br>
+
+<a href="http://wenjie301415926.com" target="_blank"><img src="1.jpg"</a><br>
+<a href="#TOP">点击此处回到顶部</a>
+
+<body>
+</html>
