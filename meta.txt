@@ -1,0 +1,12 @@
+<html lang="zh-CN">
+<head>
+<meta http-equiv="content－Type" content="text/html;charset=gb2312"〉
+<meta name="description" content="陈文杰的个人博客">
+<meta name="author" content="chenwenjie">
+<meta name="robot" content="index">
+<meta name="keywords" content="陈文杰">
+<meta name="keywords" content="陈文杰的个人博客">
+<title>meta示例</title>
+</head>
+
+</html>
