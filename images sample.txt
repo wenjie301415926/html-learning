@@ -1,0 +1,16 @@
+<html> 
+<head> <title>图像标志的综合示例</title> </head>  
+
+<body> 
+<br>
+<h1 align="center">图片欣赏</h1>
+<hr width="900" size="1" color="#0000FF"><br>
+
+<p align="center"><img src="1.jpg" alt="网页制作" WIDTH="880" HEIGHT="581"></p> <br>
+
+<hr width="900" size="1" color="#0000FF"> 
+<p align="center" color="#0000FF">绿茶婊<p>
+
+</body> 
+
+</html>

@@ -1,0 +1,12 @@
+<html>
+<head><title>陈文杰的个人博客</title></head>
+
+<body>
+<h1 align="center">陈文杰的个人博客</h1>
+<h2 align="left"><cite>“301415926,我才不是圆周率”</cite></h2>
+<a href="http://ppoffice.github.io/hexo-theme-hueman/" target="_blank">本该是这样</a><br>
+<a href="http://ppoffice.github.io/hexo-theme-icarus/" target="_blank">或者这样</a><br>
+<a href="http://wuchong.me/jacman/" target="_blank">甚至是这样</a><br>
+</body>
+
+</html>
